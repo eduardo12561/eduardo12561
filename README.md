@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://inscricoes.unip.br/inscricao?utm_source=google&utm_medium=cpc&utm_content=search&utm_campaign=presencial&ds_rl=1260386&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D8s7LGEGbcd_dwbht5AQ9dywgEl2_UBb5aP1TAz6wJAjFAOU22D6ccaAjBEEALw_wcB&gclsrc=aw.ds">UNIP (Universidade Paulista)</a>.
 - 💼 &nbsp; Em busca de uma oportunidade como estagiário ou trainee na área de desenvolvimento web (Front-End)</a>
-- 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS, JavaScript, GitHub, Inglês e avançado e em breve React!**.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS, JavaScript, GitHub, Inglês avançado e em breve React!**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
